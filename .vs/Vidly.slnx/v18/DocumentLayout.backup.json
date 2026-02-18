@@ -1,12 +1,55 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dev\\Repos\\vidly\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03DACBD1-46F6-D9D0-1530-ADFE6A180855}|Vidly.csproj|d:\\dev\\repos\\vidly\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03DACBD1-46F6-D9D0-1530-ADFE6A180855}|Vidly.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DACBD1-46F6-D9D0-1530-ADFE6A180855}|Vidly.csproj|d:\\dev\\repos\\vidly\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03DACBD1-46F6-D9D0-1530-ADFE6A180855}|Vidly.csproj|solutionrelative:views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "D:\\Dev\\Repos\\vidly\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Random.cshtml",
+              "ToolTip": "D:\\Dev\\Repos\\vidly\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Random.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T16:09:40.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dev\\Repos\\vidly\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\Dev\\Repos\\vidly\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T16:08:39.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

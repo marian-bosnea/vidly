@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Repos\\vidly\\Vidly.csproj": {}
+    "D:\\Dev\\Repos\\Vidly\\Vidly.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Repos\\vidly\\Vidly.csproj": {
+    "D:\\Dev\\Repos\\Vidly\\Vidly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Repos\\vidly\\Vidly.csproj",
+        "projectUniqueName": "D:\\Dev\\Repos\\Vidly\\Vidly.csproj",
         "projectName": "Vidly",
-        "projectPath": "D:\\Dev\\Repos\\vidly\\Vidly.csproj",
+        "projectPath": "D:\\Dev\\Repos\\Vidly\\Vidly.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
         "outputPath": "D:\\Dev\\Repos\\vidly\\obj\\",
         "projectStyle": "PackageReference",

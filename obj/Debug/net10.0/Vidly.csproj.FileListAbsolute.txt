@@ -97,3 +97,4 @@ D:\Dev\Repos\Vidly\obj\Debug\net10.0\Vidly.pdb
 D:\Dev\Repos\Vidly\obj\Debug\net10.0\Vidly.genruntimeconfig.cache
 D:\Dev\Repos\Vidly\obj\Debug\net10.0\ref\Vidly.dll
 D:\Dev\Repos\Vidly\obj\Debug\net10.0\compressed\fovqstne22-{0}-6quyjfumcs-6quyjfumcs.gz
+D:\Dev\Repos\Vidly\obj\Debug\net10.0\Vidly.sourcelink.json
